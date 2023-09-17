@@ -1,0 +1,136 @@
+/* TagSelector */
+
+body{
+
+background-color: aquamarine;
+
+}
+
+h1{
+
+
+    text-align: center;
+
+
+}
+h2{
+
+    text-align: end;
+}
+
+/* classSelector */
+
+/* text */
+
+.heading{
+visibility: hidden;
+}
+.screen1{
+    position: relative;
+    font-size: 150%;
+     right:2%
+}
+
+
+
+/* containers */
+
+
+.Main-box{
+    position: relative;
+    background-color: rgb(22, 129, 230);
+    width: fit-content;
+    top:100px;
+    border-radius: 10px;
+    
+
+
+}
+.screen{
+    position: relative;
+    background-color: rgb(198, 252, 245);
+    height: 30px;
+    border-radius:10px;
+    margin-bottom: 5%;
+    width: 90%;
+    left: 10px;
+}
+
+.inner-box{
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    max-width: 240px;
+    margin: 0 auto;
+
+}
+/* buttons */
+
+.btn1{
+
+
+}
+
+.btn2{
+
+    
+    }
+    
+.btn3{
+
+    
+    }
+    
+.btn4{
+
+    
+    }
+    
+.btn5{
+
+    
+    }
+    
+.btn6{
+
+    
+    }
+    
+.btn7{
+
+    
+    }
+    
+.btn8{
+
+    
+    }
+    
+.btn9{
+
+    
+    }
+    
+.btn10{
+
+    
+    }
+    
+.btn11{
+
+    
+    }
+    
+.btn12{
+
+    
+    }
+.button{
+
+    color: beige;
+    font-weight: bolder;
+
+}
+
+
